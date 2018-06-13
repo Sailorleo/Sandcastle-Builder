@@ -1,5 +1,52 @@
 ## Changelog
 
+### 4.05 Method Not Allowed
+
+#### pickten
+- duplicate notification option bug
+- fix typo that was breaking Not a Priest
+
+#### xeymericx 
+- Mark technicolour as tagged item
+
+#### dfriedenbach
+- fix a couple issues with exit through the abattoir
+
+#### ED
+- typo (unnecessary aphostrophe in DQ description)
+- updated changelog
+- added Discord link to index
+- updated changelog again
+- updated changelog redundantly
+- Merry Christmas!
+- Removed Elfish Destiny
+- updated changelog because I missed mentioning the most important thing because I was distracted markig and closing the duplicate issue on GitHub
+- reminded people they can still comment on a closed issue asking for it to be pushed to li
+
+### 4.04 Fool Not Found
+
+#### pokeball99
+- Move changelog to its own file
+
+#### Pikrass
+- Typos
+
+#### pickten
+- Fix infinite backwards movement in TaT pix (bug #1471)
+- Molpy.subtractObjects was not pure (bug #1481)
+
+#### EPSIL0N 
+- dragon equipment reward quick fix
+
+#### coderpatsy
+- Reset currentLog button when clearing logs
+- Glass Blower description spacing
+
+#### ED
+- Fix NPBs mustard total castles built (bug #1477) - Mustard cleanup now happens after adding mustard
+- Fix Temporal Duplication description wrong when locked (bug #1473)
+- Updated changelog
+
 ### 4.01 April Fools!
 
 #### snnw
